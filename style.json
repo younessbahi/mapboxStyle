@@ -74,7 +74,7 @@
       "type": "background",
       "layout": {},
       "paint": {
-        "background-color": "hsl(0, 0%, 0%)"
+        "background-color": "hsl(0, 0%, 20%)"
       }
     },
     {
