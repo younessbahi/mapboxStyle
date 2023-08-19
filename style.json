@@ -3797,7 +3797,8 @@
         "text-transform": "uppercase",
         "symbol-spacing": 250,
         "text-font": [
-          "DIN Pro"
+          "DIN Pro",
+          "Arial Unicode MS"
         ],
         "text-padding": 1,
         "visibility": "visible",
