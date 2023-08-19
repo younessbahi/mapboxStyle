@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "name": "Odyssey",
+  "name": "37738",
   "metadata": {
     "mapbox:autocomposite": true,
     "mapbox:type": "default",
@@ -5666,12 +5666,5 @@
       },
       "source-layer": "place_label"
     }
-  ],
-  "created": "2018-10-03T10:15:18.285Z",
-  "modified": "2018-10-03T10:15:18.285Z",
-  "id": "cjmszx78b266o2rlar02ytynj",
-  "owner": "fariskassim",
-  "visibility": "private",
-  "protected": false,
-  "draft": false
+  ]
 }
