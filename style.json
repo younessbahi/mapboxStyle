@@ -3798,7 +3798,7 @@
         "symbol-spacing": 250,
         "text-font": [
           "DIN Pro",
-          "Arial Unicode MS"
+          "Arial Unicode MS Regular"
         ],
         "text-padding": 1,
         "visibility": "visible",
